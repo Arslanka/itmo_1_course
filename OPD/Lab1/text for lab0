@@ -1,0 +1,36 @@
+bagon:
+Тип покемона DRAGONE NONE
+
+volcarona:
+weigth=101.4 height=63.0
+atk=6 def=7
+
+litwick3:
+Тип диеты Nullivore
+
+pawniard:
+Тип диеты 
+Omnivore
+
+quagsire:
+Живет Freshwater
+
+wartortle:
+Ходы Aqua Tail Body
+Slam Brine Counter Defense Curl Double-Edge Dive Dynamicpunch Focus
+Punch Ice Punch Icy Wind Iron Defense Iron Tail Mega Punch
+Mud-Slap Rollout Seismic Toss Sleep Talk Snore Water Pledge Zen
+Headbutt
+
+pidove0:
+Возможности Overland=4 Surface=1 Sky=6 Jump=3
+Power2=0 Intelligence=3 Guster=0
+
+purrloin8:
+Способности Scratch Growl
+Assist Sand-Attack Fury Swipes Pursuit Torment Fake Out Hone Claws
+Assurance Slash Captivate Night Slash Snatch Nasty Plot Sucker 
+Punch
+
+staryu:
+Развитые способности Analytic
